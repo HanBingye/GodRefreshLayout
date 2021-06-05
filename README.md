@@ -11,6 +11,6 @@ allprojects {
 }
 
 dependencies {
-    implementation 'com.github.HanBingye:GodRefreshLayout:Tag'
+    implementation 'com.github.HanBingye:GodRefreshLayout:V1.0.0'
 	}
 ~~~
